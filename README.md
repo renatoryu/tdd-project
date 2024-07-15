@@ -1,7 +1,8 @@
 # Projeto de Gerenciamento de Produtos
 
-Este é um projeto de exemplo para gerenciamento de produtos, desenvolvido utilizando Test-Driven Development (TDD). Ele inclui operações CRUD (Create, Read, Update, Delete) para produtos, com testes abrangentes para garantir a qualidade do código. Desenvolvido em parceria com a [DIO](https://www.dio.me/)
+Este projeto de exemplo para gerenciamento de produtos foi desenvolvido utilizando Test-Driven Development (TDD). Ele inclui operações CRUD (Create, Read, Update, Delete) para produtos, com testes abrangentes para garantir a qualidade do código. Desenvolvido em parceria com a [DIO](https://www.dio.me/).
 
+A aplicação tem como objetivo principal trazer conhecimentos sobre TDD na prática, desenvolvendo uma API com o framework Python, FastAPI. Utiliza o banco de dados MongoDB, o Pydantic para validações, Pytest para testes, entre outras bibliotecas.
 
 ## Instalação
 
