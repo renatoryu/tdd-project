@@ -1,6 +1,6 @@
 # Projeto de Gerenciamento de Produtos
 
-Este é um projeto de exemplo para gerenciamento de produtos, desenvolvido utilizando Test-Driven Development (TDD). Ele inclui operações CRUD (Create, Read, Update, Delete) para produtos, com testes abrangentes para garantir a qualidade do código. Desenvolvido em parceria com a [DIO](http://exemplo.com/)
+Este é um projeto de exemplo para gerenciamento de produtos, desenvolvido utilizando Test-Driven Development (TDD). Ele inclui operações CRUD (Create, Read, Update, Delete) para produtos, com testes abrangentes para garantir a qualidade do código. Desenvolvido em parceria com a [DIO](https://www.dio.me/)
 
 
 ## Instalação
